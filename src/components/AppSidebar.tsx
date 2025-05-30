@@ -1,4 +1,3 @@
-
 import {
   Calendar,
   DollarSign,
@@ -76,7 +75,7 @@ export function AppSidebar() {
             <Building2 className="w-5 h-5 text-white" />
           </div>
           <div>
-            <h2 className="text-lg font-bold text-gray-900">ConsórcioPro</h2>
+            <h2 className="text-lg font-bold text-gray-900">Argus360</h2>
             <p className="text-xs text-gray-500">Gestão de Comissões</p>
           </div>
         </div>
@@ -122,7 +121,7 @@ export function AppSidebar() {
 
       <SidebarFooter className="border-t border-gray-200 p-4">
         <div className="text-xs text-gray-500">
-          © 2024 ConsórcioPro
+          © 2024 Argus360
         </div>
       </SidebarFooter>
     </Sidebar>
